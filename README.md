@@ -73,3 +73,4 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Internet of Things partners](https://www.microsoft.com/en-us/internet-of-things/find-a-partner) - Connect with a partner to unleash the powerful potential and business value of the Internet of Things (IoT). Whether you’re looking for a complete IoT solution, or building your own using certified devices, engage with an Azure IoT partner to tailor a solution for the needs of your business.
 - [Azure Blog for Internet of Things](https://azure.microsoft.com/en-us/blog/topics/internet-of-things/) - The official Microsoft Azure Blog for topics about Internet of Things.
 - [IoT Developer Blog](https://blogs.msdn.microsoft.com/iotdev/) - MSDN Blog about Tooling and Experience for IoT Developer.
+- [Channel 9 IoT Show](https://aka.ms/iotshow) - Series of videos for developers covering IoT at Microsoft
