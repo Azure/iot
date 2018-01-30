@@ -2,14 +2,26 @@
 
 A curated list of awesome Azure Internet of Things projects and resources.
 
+- [IoT Solutions](#iot-solutions)
+- [IoT Services](#iot-services)
 - [Hardware](#hardware)
 - [Operating System](#operating-system)
-- [IoT Clouds](#iot-clouds)
 - [Get started with IoT Hub](#get-started-with-iot-hub)
-- [Framework](#framework)
+- [Platforms and Frameworks](#platforms-and-frameworks)
 - [SDK](#sdk)
 - [Libraries and Tools](#libraries-and-tools)
 - [Resources](#resources)
+
+## IoT Solutions
+- [Microsoft IoT Central](https://www.microsoft.com/en-us/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
+- [Azure IoT Suite Preconfigured Solutions](https://azure.microsoft.com/en-us/suites/iot-suite/) - A set of preconfigured solutions for getting your IoT project faster (Remote Monitoring, Connected Factory, Predictive Maintenance)
+
+## IoT Services
+
+- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
+- [Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
+- [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices.
+- [Azure Time Series Insights](https://azure.microsoft.com/en-us/services/time-series-insights/) - A fully managed analytics, storage, and visualization service that makes it simple to explore and analyze billions of IoT events simultaneously.
 
 ## Hardware
 
@@ -21,14 +33,6 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 - [Windows 10 IoT Core](https://developer.microsoft.com/en-us/windows/iot) -  Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs..
 
-## IoT Clouds
-
-- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
-- [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
-- [Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
-- [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices.
-- [Microsoft IoT Central](https://www.microsoft.com/en-us/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
-- [Azure Time Series Insights](https://azure.microsoft.com/en-us/services/time-series-insights/) - A fully managed analytics, storage, and visualization service that makes it simple to explore and analyze billions of IoT events simultaneously.
 
 ## Get started with IoT Hub
 
@@ -40,24 +44,26 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Intel Edison](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
 - [MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/connect-iot-hub/) - Get started with your MXChip IoT Developer Kit.
 
-## Framework
+## Platforms and Frameworks
 
+- [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
 - [Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway) - Azure IoT protocol gateway is a framework for protocol adaptation that enables bi-directional communication with Azure IoT Hub. It is a pass-through component that bridges traffic between connected IoT devices and IoT Hub.
 
 ## SDK
 
-- [Azure IoT device SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-device-sdk) - The Microsoft Azure IoT device SDKs contain code that facilitates building devices and applications that connect to and are managed by Azure IoT Hub services.
-- [Azure IoT service SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-service-sdk) - The Azure IoT service SDKs contain code to facilitate building applications that interact directly with IoT Hub to manage devices and security.
-- [Azure IoT Edge SDK](https://github.com/Azure/iot-edge) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
+- [Azure IoT device client SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-device-sdk) - The Microsoft Azure IoT device SDKs contain code that facilitates building devices and applications that connect to and are managed by Azure IoT Hub services.
+- [Azure IoT service client SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-service-sdk) - The Azure IoT service SDKs contain code to facilitate building applications that interact directly with IoT Hub to manage devices and security.
 
 ## Libraries and Tools
 
-- [Azure IoT Edge](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) - Develop, deploy, debug, and manage your IoT Edge solution.
-- [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
+- [Azure IoT Edge for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) - Develop, deploy, debug, and manage your IoT Edge solution.
+- [Azure IoT Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
 - [Arduino for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) - The Arduino extension makes it easy to code, build, deploy and debug your Arduino sketches in Visual Studio Code.
 - [PlatformIO for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio) - PlatformIO is an open source ecosystem for IoT development. It supports 350+ embedded boards, 20+ development platforms and 10+ frameworks.
 - [Azure IoT Web Client](https://azure-iot.github.io) - A web-based client tool for Azure IoT Hub to send and monitor device-to-cloud messages.
-- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot?view=azure-cli-latest) - Commands to connect, monitor, and control millions of IoT assets.
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/iot?view=azure-cli-latest) - Commands to connect, monitor, and control Azure IoT Hub service.
+- [Azure CLI IoT extension](https://github.com/Azure/azure-iot-cli-extension) - Extension for the Azure CLI 2.0 to work with IoT devices and IoT Edge
+- [Device simulation service](https://docs.microsoft.com/en-us/azure/iot-suite/iot-suite-device-simulation-explore) - Service to simulate devices for testing IoT solutions.
 - [IoT Hub REST API](https://docs.microsoft.com/en-us/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provder, in IoT Hub.
 - [IoT Hub Explorer](https://github.com/azure/iothub-explorer) - A CLI tool to manage device identities in your IoT hub registry, send and receive messages and files from your devices, and monitor your IoT hub operations.
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) - This tool enables you to perform operations such as manage the devices registered to an IoT hub, view device-to-cloud messages sent to an IoT hub, and send cloud-to-device messages from an IoT hub. Note this tool only runs on Windows.
