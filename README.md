@@ -79,7 +79,6 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure IoT Hub Code Samples](https://azure.microsoft.com/resources/samples/?service=iot-hub) - Learn to interact with Azure IoT Hub through code.
 - [Azure IoT Hub updates](https://azure.microsoft.com/updates/?product=iot-hub) - Service Updates for Azure IoT Hub.
 - [Azure IoT Hub limits](https://docs.microsoft.com/azure/azure-subscription-service-limits#iot-hub-limits) - List the limits associated with the different service tiers (S1, S2, S3, F1).
-- [Azure IoT Suite](https://azure.microsoft.com/suites/iot-suite/) - Get started quickly with Microsoft Azure IoT Suite. Use preconfigured solutions, and accelerate the development of your Internet of Things (IoT) solution.
 - [Internet of Things partners](https://www.microsoft.com/internet-of-things/find-a-partner) - Connect with a partner to unleash the powerful potential and business value of the Internet of Things (IoT). Whether you’re looking for a complete IoT solution, or building your own using certified devices, engage with an Azure IoT partner to tailor a solution for the needs of your business.
 - [Azure Blog for Internet of Things](https://azure.microsoft.com/blog/topics/internet-of-things/) - The official Microsoft Azure Blog for topics about Internet of Things.
 - [IoT Developer Blog](https://blogs.msdn.microsoft.com/iotdev/) - MSDN Blog about Tooling and Experience for IoT Developer.
