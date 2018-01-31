@@ -51,12 +51,12 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 ## SDKs
 
-- [Understanding and Use the Azure IoT SDKs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks) - The Microsoft Azure IoT SDKs  come in 2 flavors, device and service SDKS, and provide libraries that facilitates building devices and cloud applications with Azure IoT Hub and its provisioning service.
+- [Understanding and Use the Azure IoT SDKs](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks) - The Microsoft Azure IoT SDKs  come in 2 flavors, device and service SDKS, and provide libraries that facilitates building devices and cloud applications with Azure IoT Hub and its provisioning service.
 - [Azure IoT device SDK for C](https://github.com/azure/azure-iot-sdk-c) - Repository for the C SDKs. Packages are also published to Nuger, MBed, APT, etc.
 - [Azure IoT device SDK for .NET](https://github.com/azure/azure-iot-sdk-csharp) - Repository for the .NET SDKs. Packages are also published on Nuget.
 - [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
 - [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
-- [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Node SDKs. Packages are also published on PIP.
+- [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Python SDKs. Packages are also published on PIP.
 
 ## Libraries and Tools
 
