@@ -19,6 +19,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 ## IoT Services
 
 - [Azure IoT Hub](https://azure.microsoft.com/services/iot-hub/) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
+- [Azure IoT Hub Device Provisioning Service](https://docs.microsoft.com/azure/iot-dps/) - Seamless, zero-touch registration of devices to IoT Hub with security that begins at the device and ends with our cloud.
 - [Azure Event Hubs](https://azure.microsoft.com/services/event-hubs/) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
 - [Azure Stream Analytics](https://azure.microsoft.com/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices.
 - [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) - A fully managed analytics, storage, and visualization service that makes it simple to explore and analyze billions of IoT events simultaneously.
