@@ -49,10 +49,14 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
 - [Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway) - Azure IoT protocol gateway is a framework for protocol adaptation that enables bi-directional communication with Azure IoT Hub. It is a pass-through component that bridges traffic between connected IoT devices and IoT Hub.
 
-## SDK
+## SDKs
 
-- [Azure IoT device client SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-device-sdk) - The Microsoft Azure IoT device SDKs contain code that facilitates building devices and applications that connect to and are managed by Azure IoT Hub services.
-- [Azure IoT service client SDK](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks#azure-iot-service-sdk) - The Azure IoT service SDKs contain code to facilitate building applications that interact directly with IoT Hub to manage devices and security.
+- [Understanding and Use the Azure IoT SDKs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-sdks) - The Microsoft Azure IoT SDKs  come in 2 flavors, device and service SDKS, and provide libraries that facilitates building devices and cloud applications with Azure IoT Hub and its provisioning service.
+- [Azure IoT device SDK for C](https://github.com/azure/azure-iot-sdk-c) - Repository for the C SDKs. Packages are also published to Nuger, MBed, APT, etc.
+- [Azure IoT device SDK for .NET](https://github.com/azure/azure-iot-sdk-csharp) - Repository for the .NET SDKs. Packages are also published on Nuget.
+- [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
+- [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
+- [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Node SDKs. Packages are also published on PIP.
 
 ## Libraries and Tools
 
