@@ -8,7 +8,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Operating System](#operating-system)
 - [Get started with IoT Hub](#get-started-with-iot-hub)
 - [Platforms and Frameworks](#platforms-and-frameworks)
-- [SDK](#sdk)
+- [SDKs](#sdks)
 - [Libraries and Tools](#libraries-and-tools)
 - [Resources](#resources)
 
@@ -57,7 +57,6 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
 - [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
 - [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Python SDKs. Packages are also published on PIP.
-
 
 ## Libraries and Tools
 
