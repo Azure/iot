@@ -10,6 +10,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Platforms and Frameworks](#platforms-and-frameworks)
 - [SDKs](#sdks)
 - [Libraries and Tools](#libraries-and-tools)
+- [Learning Material](#learning-material)
 - [Resources](#resources)
 
 ## IoT Solutions
@@ -32,17 +33,14 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 ## Operating System
 
-- [Windows 10 IoT Core](https://developer.microsoft.com/windows/iot) -  Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs..
+- [Windows 10 IoT Core](https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core) -  Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs..
 
 
 ## Get started with IoT Hub
 
 - [Simulated device](https://docs.microsoft.com/azure/iot-hub/iot-hub-node-node-getstarted) - Connect your simulated device to your IoT hub using Node.js.
 - [Raspberry Pi 3](https://docs.microsoft.com/azure/iot-hub/iot-hub-raspberry-pi-kit-node-get-started) - Connect your Raspberry Pi 3 device to your IoT hub using Node.js.
-- [Adafruit Feather M0 WiFi](https://docs.microsoft.com/azure/iot-hub/iot-hub-adafruit-feather-m0-wifi-kit-arduino-get-started) - Get started with your Arduino board: Adafruit Feather M0 WiFi.
 - [Adafruit Feather HUZZAH ESP8266](https://docs.microsoft.com/azure/iot-hub/iot-hub-arduino-huzzah-esp8266-get-started) - Get started with your Arduino board: Adafruit Feather HUZZAH ESP8266.
-- [Sparkfun ESP8266 Thing Dev](https://docs.microsoft.com/azure/iot-hub/iot-hub-sparkfun-esp8266-thing-dev-get-started) - Get started with your Arduino board: Sparkfun ESP8266 Thing Dev.
-- [Intel Edison](https://docs.microsoft.com/azure/iot-hub/iot-hub-intel-edison-kit-c-get-started) - Connect your Intel Edison device to your IoT hub using C.
 - [MXChip IoT Developer Kit](https://microsoft.github.io/azure-iot-developer-kit/docs/projects/connect-iot-hub/) - Get started with your MXChip IoT Developer Kit.
 
 ## Platforms and Frameworks
@@ -74,8 +72,16 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) - This tool enables you to perform operations such as manage the devices registered to an IoT hub, view device-to-cloud messages sent to an IoT hub, and send cloud-to-device messages from an IoT hub. Note this tool only runs on Windows.
 - [IoT Hub Diagnostics Tool](https://github.com/azure/iothub-diagnostics) - This tool is provided to help diagnose issues with a device connecting to Azure IoT Hubs.
 
+## Learning Material
+
+- [IoT School](https://iotschool.microsoft.com/en-us/home) - Tutorials and getting started material
+- [Azure IoT Developer Bootcamp](https://iotschool.microsoft.com/en-us/none/learning-paths/1z75cTRBNqEA2EigQoQKKe) - End-to-end developer course for Azure IoT
+- [Microsoft Professional Program for Internet of Things (IoT)](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/) - Professional course for IoT offered by Microsoft
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?term=iot) - Tutorials and learning paths
+
 ## Resources
 
+- [Azure IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot/) - Reference architecture shows a recommended architecture for IoT applications on Azure using PaaS (platform-as-a-service) components.
 - [Azure IoT Developer Center](https://azure.microsoft.com/develop/iot/) - Get started with Azure IoT Suite and IoT Hub and learn how easy it is to connect your IoT devices to Microsoft Azure.
 - [Azure IoT Hub Code Samples](https://azure.microsoft.com/resources/samples/?service=iot-hub) - Learn to interact with Azure IoT Hub through code.
 - [Azure IoT Hub updates](https://azure.microsoft.com/updates/?product=iot-hub) - Service Updates for Azure IoT Hub.
@@ -84,3 +90,4 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure Blog for Internet of Things](https://azure.microsoft.com/blog/topics/internet-of-things/) - The official Microsoft Azure Blog for topics about Internet of Things.
 - [IoT Developer Blog](https://blogs.msdn.microsoft.com/iotdev/) - MSDN Blog about Tooling and Experience for IoT Developer.
 - [Channel 9 IoT Show](https://aka.ms/iotshow) - Series of videos for developers covering IoT at Microsoft
+
