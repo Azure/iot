@@ -14,6 +14,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Resources](#resources)
 
 ## IoT Solutions
+
 - [Microsoft IoT Central](https://www.microsoft.com/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
 - [Azure IoT Suite Preconfigured Solutions](https://azure.microsoft.com/suites/iot-suite/) - A set of preconfigured solutions for getting your IoT project faster (Remote Monitoring, Connected Factory, Predictive Maintenance)
 
@@ -50,9 +51,9 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 ## SDKs
 
-- [Understanding and Use the Azure IoT SDKs](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks) - The Microsoft Azure IoT SDKs  come in 2 flavors, device and service SDKS, and provide libraries that facilitates building devices and cloud applications with Azure IoT Hub and its provisioning service.
-- [Azure IoT device SDK for C](https://github.com/azure/azure-iot-sdk-c) - Repository for the C SDKs. Packages are also published to Nuger, MBed, APT, etc.
-- [Azure IoT device SDK for .NET](https://github.com/azure/azure-iot-sdk-csharp) - Repository for the .NET SDKs. Packages are also published on Nuget.
+- [Understanding and Use the Azure IoT SDKs](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks) - The Microsoft Azure IoT SDKs  come in 2 flavors, device and service SDKs, and provide libraries that facilitates building devices and cloud applications with Azure IoT Hub and its provisioning service.
+- [Azure IoT device SDK for C](https://github.com/azure/azure-iot-sdk-c) - Repository for the C SDKs. Packages are also published to NuGet, MBed, APT, etc.
+- [Azure IoT device SDK for .NET](https://github.com/azure/azure-iot-sdk-csharp) - Repository for the .NET SDKs. Packages are also published on NuGet.
 - [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
 - [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
 - [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Python SDKs. Packages are also published on PIP.
@@ -67,7 +68,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure CLI](https://docs.microsoft.com/cli/azure/iot?view=azure-cli-latest) - Commands to connect, monitor, and control Azure IoT Hub service.
 - [Azure CLI IoT extension](https://github.com/Azure/azure-iot-cli-extension) - Extension for the Azure CLI 2.0 to work with IoT devices and IoT Edge
 - [Device simulation service](https://docs.microsoft.com/azure/iot-suite/iot-suite-device-simulation-explore) - Service to simulate devices for testing IoT solutions.
-- [IoT Hub REST API](https://docs.microsoft.com/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provder, in IoT Hub.
+- [IoT Hub REST API](https://docs.microsoft.com/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provider, in IoT Hub.
 - [IoT Hub Explorer](https://github.com/azure/iothub-explorer) - A CLI tool to manage device identities in your IoT hub registry, send and receive messages and files from your devices, and monitor your IoT hub operations.
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) - This tool enables you to perform operations such as manage the devices registered to an IoT hub, view device-to-cloud messages sent to an IoT hub, and send cloud-to-device messages from an IoT hub. Note this tool only runs on Windows.
 - [IoT Hub Diagnostics Tool](https://github.com/azure/iothub-diagnostics) - This tool is provided to help diagnose issues with a device connecting to Azure IoT Hubs.
