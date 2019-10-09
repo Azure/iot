@@ -48,6 +48,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 
 - [Azure IoT Edge](https://docs.microsoft.com/azure/iot-edge/) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
 - [Azure IoT Protocol Gateway](https://github.com/Azure/azure-iot-protocol-gateway) - Azure IoT protocol gateway is a framework for protocol adaptation that enables bi-directional communication with Azure IoT Hub. It is a pass-through component that bridges traffic between connected IoT devices and IoT Hub.
+- [Azure Industrial IoT](https://github.com/Azure/Industrial-IoT) - Azure Industrial IoT Platform includes components and services to connect industrial equipment to Azure.  It can be used to build applications that can monitor and manage factory operations.
 
 ## SDKs
 
