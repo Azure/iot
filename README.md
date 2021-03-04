@@ -43,7 +43,7 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [IoT Device Development](https://docs.microsoft.com/azure/iot-develop) - Explore the Azure IoT documentation for developing cloud-connected embedded devices and device applications
 - [Getting Started with Azure RTOS](https://github.com/azure-rtos/getting-started) - Connect a range of popular devkits from our silicon vendor parts to Azure IoT in under 30 minutes.
 - [Azure Device Certification](https://certify.azure.com) - Certify your devices for one or more of our certifications and publish them to the IoT device catalog
-- [Azure Certified for IoT device catalog](https://catalog.azureiotsuite.com) - Browse Certified for IoT devices tailored to your needs.
+- [Azure Certified Device catalog](https://devicecatalog.azure.com) - Browse Certified for IoT devices tailored to your needs.
 - [Azure Certified for IoT dev kits](https://devicecatalog.azure.com/devices?deviceType=DevKit) - Start today with development boards that are *Azure Certified for IoT*, sensors and actuators. Simple tutorials help you connect devices to the Microsoft Azure IoT cloud.
 
 
