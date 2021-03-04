@@ -1,19 +1,9 @@
-# Awesome Azure IoT 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
-[![Build Status](https://travis-ci.org/Azure/iot.svg?branch=master)](https://travis-ci.org/Azure/iot)
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![](https://github.com/azure/iot/workflows/Markdown%20links/badge.svg)
 
-A curated list of awesome Azure Internet of Things projects and resources.
+# Awesome Azure IoT
 
-- [IoT Solutions](#iot-solutions)
-- [IoT Services](#iot-services)
-- [Hardware](#hardware)
-- [Operating System](#operating-system)
-- [Get started with IoT Hub](#get-started-with-iot-hub)
-- [Platforms and Frameworks](#platforms-and-frameworks)
-- [SDKs](#sdks)
-- [Libraries and Tools](#libraries-and-tools)
-- [Learning Material](#learning-material)
-- [Resources](#resources)
+A curated list of awesome Azure IoT projects and resources.
 
 ## IoT Solutions
 
