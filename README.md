@@ -15,31 +15,18 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Learning Material](#learning-material)
 - [Resources](#resources)
 
-## IoT Device Development
-
-- [IoT Device Development](https://docs.microsoft.com/azure/iot-develop) - Explore the Azure IoT documentation for developing cloud-connected embedded devices and device applications
-- [Getting Started with Azure RTOS](https://github.com/azure-rtos/getting-started) - Connect a range of popular devkits from our silicon vendor parts to Azure IoT in under 30 minutes.
-- [Azure Device Certification](https://certify.azure.com) - Certify your devices for one or more of our certifications and publish them to the IoT device catalog
-- [Azure Certified for IoT device catalog](https://catalog.azureiotsuite.com) - Browse Certified for IoT devices tailored to your needs.
-- [Azure Certified for IoT dev kits](https://devicecatalog.azure.com/devices?deviceType=DevKit) - Start today with development boards that are *Azure Certified for IoT*, sensors and actuators. Simple tutorials help you connect devices to the Microsoft Azure IoT cloud.
-
 ## IoT Solutions
 
 - [Microsoft IoT Central](https://www.microsoft.com/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
 - [Azure IoT Solution Accelerators](https://azure.microsoft.com/features/iot-accelerators) - Pre-configured solutions for getting your IoT project faster (Remote Monitoring, Connected Factory, Predictive Maintenance)
 
-## IoT Services Docs
+## IoT Services
 
 - [Azure IoT Hub](https://docs.microsoft.com/azure/iot-hub) - Connect, monitor, and manage billions of IoT assets. Azure IoT Hub is a fully managed service that enables reliable and secure bidirectional communications between millions of IoT devices and a solution back end.
 - [Azure IoT Hub Device Provisioning Service](https://docs.microsoft.com/azure/iot-dps) - Seamless, zero-touch registration of devices to IoT Hub with security that begins at the device and ends with our cloud.
 - [Azure Event Hubs](https://docs.microsoft.com/azure/event-hubs) - Cloud-scale telemetry ingestion from websites, apps, and any streams of data.
 - [Azure Stream Analytics](https://docs.microsoft.com/azure/stream-analytics) - Real-time data stream processing from millions of IoT devices.
 - [Azure Time Series Insights](https://docs.microsoft.com/azure/time-series-insights) - A fully managed analytics, storage, and visualization service that makes it simple to explore and analyze billions of IoT events simultaneously.
-
-## Platforms and Frameworks
-
-- [Azure IoT Edge](https://docs.microsoft.com/azure/iot-edge) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
-- [Azure Industrial IoT](https://github.com/Azure/Industrial-IoT) - Azure Industrial IoT Platform includes components and services to connect industrial equipment to Azure.  It can be used to build applications that can monitor and manage factory operations.
 
 ## SDKs
 
@@ -50,6 +37,20 @@ A curated list of awesome Azure Internet of Things projects and resources.
 - [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
 - [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
 - [Azure IoT device SDK for Python](https://github.com/azure/azure-iot-sdk-python) - Repository for the Python SDKs. Packages are also published on PIP.
+
+## IoT Device Development
+
+- [IoT Device Development](https://docs.microsoft.com/azure/iot-develop) - Explore the Azure IoT documentation for developing cloud-connected embedded devices and device applications
+- [Getting Started with Azure RTOS](https://github.com/azure-rtos/getting-started) - Connect a range of popular devkits from our silicon vendor parts to Azure IoT in under 30 minutes.
+- [Azure Device Certification](https://certify.azure.com) - Certify your devices for one or more of our certifications and publish them to the IoT device catalog
+- [Azure Certified for IoT device catalog](https://catalog.azureiotsuite.com) - Browse Certified for IoT devices tailored to your needs.
+- [Azure Certified for IoT dev kits](https://devicecatalog.azure.com/devices?deviceType=DevKit) - Start today with development boards that are *Azure Certified for IoT*, sensors and actuators. Simple tutorials help you connect devices to the Microsoft Azure IoT cloud.
+
+
+## Platforms and Frameworks
+
+- [Azure IoT Edge](https://docs.microsoft.com/azure/iot-edge) - Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management.
+- [Azure Industrial IoT](https://github.com/Azure/Industrial-IoT) - Azure Industrial IoT Platform includes components and services to connect industrial equipment to Azure.  It can be used to build applications that can monitor and manage factory operations.
 
 ## Libraries and Tools
 
