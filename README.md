@@ -8,7 +8,6 @@ A curated list of awesome Azure IoT projects and resources.
 ## IoT Solutions
 
 - [Microsoft IoT Central](https://www.microsoft.com/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
-- [Azure IoT Solution Accelerators](https://azure.microsoft.com/features/iot-accelerators) - Pre-configured solutions for getting your IoT project faster (Remote Monitoring, Connected Factory, Predictive Maintenance)
 
 ## IoT Services
 
