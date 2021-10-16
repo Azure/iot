@@ -1,4 +1,3 @@
-![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![](https://github.com/azure/iot/workflows/Markdown%20links/badge.svg)
 
 # Awesome Azure IoT
@@ -8,7 +7,6 @@ A curated list of awesome Azure IoT projects and resources.
 ## IoT Solutions
 
 - [Microsoft IoT Central](https://www.microsoft.com/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
-- [Azure IoT Solution Accelerators](https://azure.microsoft.com/features/iot-accelerators) - Pre-configured solutions for getting your IoT project faster (Remote Monitoring, Connected Factory, Predictive Maintenance)
 
 ## IoT Services
 
@@ -20,9 +18,9 @@ A curated list of awesome Azure IoT projects and resources.
 
 ## SDKs
 
-- [Choosing an SDK](https://docs.microsoft.com/azure/iot-develop/about-iot-sdks) - Device or service SDKs, embedded or higher order.
 - [Azure SDK for Embedded C](https://github.com/azure/azure-iot-sdk-c) - Designed to allow small embedded IoT devices to communicate with Azure services.
 - [Azure IoT Middleware for Azure RTOS](https://github.com/azure-rtos/netxduo/tree/master/addons/azure_iot) - A platform specific library that acts as a binding layer between the Azure RTOS and the Azure SDK for Embedded C.
+- [Azure IoT Middleware for FreeRTOS](https://github.com/Azure/azure-iot-middleware-freertos) - A platform specific library that acts as a binding layer between the FreeRTOS and the Azure SDK for Embedded C.
 - [Azure IoT device SDK for .NET](https://github.com/azure/azure-iot-sdk-csharp) - Repository for the .NET SDKs. Packages are also published on NuGet.
 - [Azure IoT device SDK for Java](https://github.com/azure/azure-iot-sdk-java) - Repository for the Java SDKs. Packages are also published on Maven.
 - [Azure IoT device SDK for Node.js](https://github.com/azure/azure-iot-sdk-node) - Repository for the Node SDKs. Packages are also published on NPM.
@@ -31,6 +29,7 @@ A curated list of awesome Azure IoT projects and resources.
 ## IoT Device Development
 
 - [IoT Device Development](https://docs.microsoft.com/azure/iot-develop) - Explore the Azure IoT documentation for developing cloud-connected embedded devices and device applications
+- [Choosing an Device SDK](https://docs.microsoft.com/azure/iot-develop/about-iot-sdks) - Device or service SDKs, embedded or higher order.
 - [Getting Started with Azure RTOS](https://github.com/azure-rtos/getting-started) - Connect a range of popular devkits from our silicon vendor parts to Azure IoT in under 30 minutes.
 - [Azure Device Certification](https://certify.azure.com) - Certify your devices for one or more of our certifications and publish them to the IoT device catalog
 - [Azure Certified Device catalog](https://devicecatalog.azure.com) - Browse Certified for IoT devices tailored to your needs.
