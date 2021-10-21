@@ -46,7 +46,6 @@ A curated list of awesome Azure IoT projects and resources.
 - [Azure IoT Edge for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge) - Develop, deploy, debug, and manage your IoT Edge solution.
 - [Azure IoT Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) - Interact with Azure IoT Hub, IoT Device Management, IoT Hub Code Snippets.
 - [Azure IoT Web Client](https://azure-iot.github.io) - A web-based client tool for Azure IoT Hub to send and monitor device-to-cloud messages.
-- [Device simulation service](https://docs.microsoft.com/azure/iot-suite/iot-suite-device-simulation-explore) - Service to simulate devices for testing IoT solutions.
 - [IoT Hub REST API](https://docs.microsoft.com/rest/api/iothub/) - The REST APIs for IoT Hub offer programmatic access to the device and messaging services, as well as the resource provider, in IoT Hub.
 
 ## Learning Material
