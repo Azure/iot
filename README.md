@@ -6,7 +6,7 @@ A curated list of awesome Azure IoT projects and resources.
 
 ## IoT Solutions
 
-- [Microsoft IoT Central](https://www.microsoft.com/iot-central) - A fully managed SaaS offering for customers and partners that enables powerful IoT scenarios without requiring cloud solution expertise.
+- [Azure IoT Central](https://github.com/azure/iot-central) - Azure IoT Central is Azure’s Application as a platform (aPaaS) solution for connecting and managing devices at scale, enabling customers to spend their time, energy, and budget using IoT data to create business value, rather than simply getting IoT data.
 
 ## IoT Services
 
